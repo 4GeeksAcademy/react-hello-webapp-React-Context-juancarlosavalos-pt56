@@ -131,7 +131,7 @@ export const AddContact = () => {
                             className="btn btn-link w-100"
                             onClick={() => navigate("/")}
                         >
-                            or get back to contacts
+                            for get back to contacts
                         </button>
                     </form>
                 </div>
